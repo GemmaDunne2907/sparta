@@ -3,12 +3,16 @@ body {
 	background-repeat: no-repeat;
 }
 
-.red {
-	color: red;
+.black {
+	color: black;
 }
 
 #mainHeading {
 	font-family: sans-serif;
-	color: green;
-	
+	color: white;
+
+}
+
+.white {
+	color: white;
 }
